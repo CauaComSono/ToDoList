@@ -30,7 +30,9 @@ Você escolherá o que quer atualizar nela no json, e irá verificar se o usuár
 
 
 Você também pode acessar o banco de dados em localhost:8080/h2-console
-Username para acessar o banco:admin
-Senha para acessar o banco:admin
+
+Username para acessar o banco: admin
+
+Senha para acessar o banco: admin
 
 
