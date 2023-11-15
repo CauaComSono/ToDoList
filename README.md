@@ -1,6 +1,8 @@
 # ToDoList
 Repo dedicado ao último trabalho do professor Elenilton
 
+Nome: Cauã Eduardo Kuhn Schadeck
+
 Eu escolhi fazer uma lista da afazeres(To Do List) com Spring Boot e um Banco de Dados em Memória(H2), nesta lista você pode criar usuários, cadastrar tarafes, listar as tarafes e atualiza-las.
 
 Para podermos fazer as request para cadastrar o usuário ou as tarafes será necessário utilizar Rest Client como Insomnia, Postman ou Apidog, no meu caso vou estar utilizando do Apidog.
